@@ -1,0 +1,5 @@
+C:\Apps\tizen-studio\tools\sdb connect <ip адрес телевизора>
+
+C:\Apps\tizen-studio\tools\sdb devices
+
+C:\Apps\tizen-studio\tools\ide\bin\tizen install -n .wgt -t UE50TU7002UXRU
