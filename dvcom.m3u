@@ -1,0 +1,61 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/146.png",Первый канал
+http://91.207.115.228:12000/play/a001
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/711.png",Россия 1
+http://91.207.115.228:12000/play/a002
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/2051.png",Матч ТВ
+http://91.207.115.228:12000/play/a003
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/162.png",НТВ
+http://91.207.115.228:12000/play/a004
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/427.png",Пятый канал
+http://91.207.115.228:12000/play/a005
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/187.png",Россия К
+http://91.207.115.228:12000/play/a006
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/1683.png",Россия 24
+http://91.207.115.228:12000/play/a007
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/740.png",Карусель
+http://91.207.115.228:12000/play/a008
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/1000.png",ОТР
+http://91.207.115.228:12000/play/a009
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/649.png",ТВ Центр
+http://91.207.115.228:12000/play/a00a
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/18.png",Рен ТВ
+http://91.207.115.228:12000/play/a00b
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/2141.png",Спас
+http://91.207.115.228:12000/play/a00c
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/79.png",СТС
+http://91.207.115.228:12000/play/a00d
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/304.png",Домашний
+http://91.207.115.228:12000/play/a00e
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/698.png",ТВ3
+http://91.207.115.228:12000/play/a00f
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/1003.png",Пятница
+http://91.207.115.228:12000/play/a00g
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/405.png",Звезда
+http://91.207.115.228:12000/play/a00h
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/726.png",Мир
+http://91.207.115.228:12000/play/a00i
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/353.png",ТНТ
+http://91.207.115.228:12000/play/a00j
+
+#EXTINF:-1 tvg-logo="https://epg.one/img/897.png",Муз ТВ
+http://91.207.115.228:12000/play/a00k
