@@ -1,82 +1,82 @@
 #EXTM3U
 #EXTINF:-1, Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2
 #EXTINF:-1, Россия 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
 #EXTINF:-1, Матч ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2
 #EXTINF:-1, НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
 #EXTINF:-1, Пятый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2
 #EXTINF:-1, Россия К
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2
 #EXTINF:-1, Россия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
 #EXTINF:-1, Карусель
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2
 #EXTINF:-1, ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
 #EXTINF:-1, ТВ Центр
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
 #EXTINF:-1, РЕН ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2
 #EXTINF:-1, Спас
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2
 #EXTINF:-1, СТС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
 #EXTINF:-1, Домашний
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
 #EXTINF:-1, ТВ3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
 #EXTINF:-1, Пятница
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2
 #EXTINF:-1, Звезда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2
 #EXTINF:-1, Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
 #EXTINF:-1, ТНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
 #EXTINF:-1, МУЗ ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2
 #EXTINF:-1, Че
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 #EXTINF:-1, Ю
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
 #EXTINF:-1, Суббота
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
 #EXTINF:-1, СТС Love
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2
 #EXTINF:-1, Солнце
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2
 #EXTINF:-1, 2х2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2
 #EXTINF:-1, ТНТ4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
