@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTM3U
 #EXTINF:-1, Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://a775797448-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/video_800x450_avc1/playlist.m3u8?version=2
@@ -74,7 +74,7 @@ http://a775797448-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/video_800x450_avc1
 #EXTINF:-1, Солнце
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://a775797448-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/video_800x450_avc1/playlist.m3u8?version=2
-#EXTINF:-1, 2х2
+#EXTINF:-1, 2x2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://a775797448-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/playlist.m3u8?version=2
 #EXTINF:-1, ТНТ4
