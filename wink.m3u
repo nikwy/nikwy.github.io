@@ -1,0 +1,109 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/236744/2a000001821b5cc672f02700536db8af7757/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Первый канал
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/374297/2a00000180fc0902f184cf793b636f07d932/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Россия 1
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/374297/2a00000182033fa9aeea5d1edfaaaa23025d/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Матч ТВ
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/1652588/2a000001821b6f9ea688df030ac0f1aff3ea/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,НТВ
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/224348/2a0000018ca56285b486be2fa4dbc9513cb7/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Пятый канал
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/2419418/2a00000180fc1d3402496e363400037aaa47/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Россия К
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/1531675/2a00000180ffcca48a47a5c803ff2bea21f0/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Россия 24
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/2419418/2a0000018a18391d8d7f53bbf4181b9ccdb9/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Карусель
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/239697/2a000001821b74373b468412850cfba61571/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,ОТР
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/239697/2a0000018451e72f79e0a814bff050f762d8/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,ТВ Центр
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/1652588/2a00000180ffdac5a45e67f5fdbe6e744d59/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,РЕН ТВ
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/1534341/2a0000017bab33a6d852f05593a7de772652/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Спас
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/2385704/2a00000190efb2d0b4f4394a14fb69844a21/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,СТС
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_STS/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/2439731/2a000001841468dc7ee95679b9fb0369f59d/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Домашний
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/236744/2a0000018e12b0de101cae09f0846aa2011b/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,ТВ3
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/1652588/2a000001821b64384f071893a94b5b62fb9a/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Пятница
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/2439731/2a000001810078505956a4a7abd4ead8e11c/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Звезда
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/1652588/2a00000192fbe40e82e16f264aa614278b60/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Мир
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/1652588/2a0000018e12ba9479839b1247dd3767fbd9/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,ТНТ
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/2439731/2a00000186030366a56570cdf635d927e0e8/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,МУЗ ТВ
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/1534341/2a00000184e18225edd86c89e89beb36a8ca/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Че
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/224348/2a0000017bab308210fc2e4541807393bec4/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Ю
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_U/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/212840/2a00000195fb2b2e452aed15e65dff02ca24/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Суббота
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/374297/2a0000018e12e12a04cdab4e031aeab688fd/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,СТС Love
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/212840/2a000001850ec6c13da07f16f1275e6e7e55/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,Солнце
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/223007/2a00000195fb254c635cb4a3003f5ca557e7/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,2x2
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/playlist.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://avatars.mds.yandex.net/get-ott/2439731/2a00000196008fdd251694f0ca0634a28ba0/250x250" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" ,ТНТ4
+#EXTVLCOPT:http-user-agent=Firefox/100.0
+http://a3569456015-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/video_800x450_avc1/playlist.m3u8?version=2
